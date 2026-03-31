@@ -10,6 +10,6 @@ A 5" FPV racing drone built from scratch. Grade 10 project, Ontario.
 
 ## Build log
 
-### March 31st, 2026
+### Week 1 ## March 31st, 2026
 Installed the frame and ESC, FC today. Ran into an issue where I coudlN't insert the ESC and FC support screws — fixed it by installating the bottom plate after mounting the ESC and FC and the respective support screws. Next step is wiring the motors. ![Issue + Fix](photos/week1/5.march31-frame-assembled.JPG) ![Frame assembled](photos/week1/4.march31-frame-assembled.JPG)
 
